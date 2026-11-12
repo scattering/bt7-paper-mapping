@@ -1,0 +1,26 @@
+[project]
+license = {file = "LICENSE"}
+name = "bt7-paper-mapping"
+version = "0.1.0"
+description = "Deterministic BT-7 paper-to-experiment mapping heuristics for the TAS co-pilot."
+requires-python = ">=3.9"
+dependencies = [
+  "tas-copilot-contracts",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[project.entry-points."tas_copilot.tools"]
+bt7_paper_mapping = "bt7_paper_mapping.copilot_plugin"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

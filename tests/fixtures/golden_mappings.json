@@ -1,0 +1,670 @@
+[
+  {
+    "legacy_score": 3.0,
+    "paper": {
+      "paper_id": "10.1038/srep17771",
+      "year": "2015",
+      "title": "One Dimensional(1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn2O4",
+      "citation": "One Dimensional(1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn2O4 Disseler, S.M., Chen, Y., Yeo, S., Gasparovic, G., Piccoli, P.M.B., Schultz, A.J., Qiu, Y., Huang, Q., Cheong, S.-W., and Ratcliff, W. , Sci Rep 5 , 17771 (2016)",
+      "doi": "10.1038/srep17771",
+      "journal": "Scientific Reports"
+    },
+    "experiments": [
+      {
+        "experiment_id": "18445",
+        "participants": [
+          "Sang-Wook Cheong",
+          "William Ratcliff",
+          "Eteri Svanktze",
+          "Sang Cheong",
+          "Steve Disseler",
+          "Jeff Lynn",
+          "Emilia Morosan"
+        ],
+        "expt_names": [
+          "Investigation of Multiferroic Hexagonal Manganites",
+          "Hexagonal LuFe0.5Mn0.5O3",
+          "Magnetic Order in TiAu"
+        ],
+        "comments": [
+          "calibration Al2O3 [012]",
+          "calibration Al2O3 [104]",
+          "calibration Al2O3 [116]"
+        ],
+        "samples": [],
+        "date_range": [
+          1368813667.34,
+          1416328805.98
+        ]
+      },
+      {
+        "experiment_id": "16232",
+        "participants": [
+          "P. Dai",
+          "S. Li",
+          "H. Luo",
+          "M. Wang",
+          "G. Tan"
+        ],
+        "expt_names": [
+          "Magnetic resonance in FeSe0.35Te0.65"
+        ],
+        "comments": [
+          "Energy scan at (().5,0.5,0)."
+        ],
+        "samples": [],
+        "date_range": [
+          1286289726.33,
+          1286542387.76
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "18445"
+  },
+  {
+    "legacy_score": 2.5,
+    "paper": {
+      "paper_id": "10.1103/physrevb.84.094504",
+      "year": "2011",
+      "title": "Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting Rb<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mrow/><mml:mi>y</mml:mi></mml:msub></mml:math>Fe<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>1.6</mml:mn><mml:mo>+</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:math>Se<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mrow/><mml:mn>2</mml:mn></mml:msub></mml:math>",
+      "citation": "Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting Rb y Fe 1.6 + x Se 2 Wang, M., Wang, M., Li, G.N., Huang, Q., Li, C.H., Tan, G.T., Zhang, C.L., Cao, H., Tian, W., Zhao, Y., Chen, Y.C., Lu, X.Y., Sheng, B., Luo, H.Q., Li, S.L., Fang, M.H., Zarestky, J.L., Ratcliff, W., Lumsden, M.D., Lynn, J.W., and Dai, P. , Phys. Rev. B 84 , 094504 (2011)",
+      "doi": "10.1103/physrevb.84.094504",
+      "journal": "Physical Review B"
+    },
+    "experiments": [
+      {
+        "experiment_id": "16232",
+        "participants": [
+          "P. Dai",
+          "S. Li",
+          "H. Luo",
+          "M. Wang",
+          "G. Tan"
+        ],
+        "expt_names": [
+          "Magnetic resonance in FeSe0.35Te0.65"
+        ],
+        "comments": [
+          "Energy scan at (().5,0.5,0)."
+        ],
+        "samples": [],
+        "date_range": [
+          1286289726.33,
+          1286542387.76
+        ]
+      },
+      {
+        "experiment_id": "17008",
+        "participants": [
+          "Guotai Tan",
+          "Miaoyin Wang",
+          "Yang Zhao",
+          "Jeff Lynn"
+        ],
+        "expt_names": [
+          "Magnetic Exciation in BaFe1.4Ru0.6As2"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1300463762.44,
+          1300888108.16
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "16232"
+  },
+  {
+    "legacy_score": 2.5,
+    "paper": {
+      "paper_id": "10.1103/physrevlett.122.217003",
+      "year": "2019",
+      "title": "Coexistence of Ferromagnetic and Stripe-Type Antiferromagnetic Spin Fluctuations in \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>YFe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>Ge</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:math>",
+      "citation": "Coexistence of Ferromagnetic and Stripe-Type Antiferromagnetic Spin Fluctuations in YFe 2 Ge 2 Wo, H., Wang, Q., Shen, Y., Zhang, X., Hao, Y., Feng, Y., Shen, S., He, Z., Pan, B., Wang, W., Nakajima, K., Ohira-Kawamura, S., Steffens, P., Boehm, M., Schmalzl, K., Forrest, T.R., Matsuda, M., Zhao, Y., Lynn, J.W., Yin, Z., and Zhao, J. , Phys. Rev. Lett. 122 , 217003 (2019)",
+      "doi": "10.1103/physrevlett.122.217003",
+      "journal": "Physical Review Letters"
+    },
+    "experiments": [
+      {
+        "experiment_id": "17008",
+        "participants": [
+          "Guotai Tan",
+          "Miaoyin Wang",
+          "Yang Zhao",
+          "Jeff Lynn"
+        ],
+        "expt_names": [
+          "Magnetic Exciation in BaFe1.4Ru0.6As2"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1300463762.44,
+          1300888108.16
+        ]
+      },
+      {
+        "experiment_id": "26114",
+        "participants": [
+          "Lynn",
+          "Ghimire",
+          "Poudel",
+          "Dally",
+          "Ghirmire"
+        ],
+        "expt_names": [
+          "Fe3Sn2",
+          "Spin Dynamics of Kagome Lattice"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1561390138.92,
+          1574729648.79
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "17008"
+  },
+  {
+    "legacy_score": 2.5,
+    "paper": {
+      "paper_id": "10.1038/s42005-022-00833-2",
+      "year": "2022",
+      "title": "Magnetization-driven Lifshitz transition and charge-spin coupling in the kagome metal YMn6Sn6",
+      "citation": "Magnetization-driven Lifshitz transition and charge-spin coupling in the kagome metal YMn6Sn6 Siegfried, P.E., Bhandari, H., Jones, D.C., Ghimire, M.P., Dally, R.L., Poudel, L., Bleuel, M., Lynn, J.W., Mazin, I.I., and Ghimire, N.J. , Commun Phys 5 , 58 (2022)",
+      "doi": "10.1038/s42005-022-00833-2",
+      "journal": "Communications Physics"
+    },
+    "experiments": [
+      {
+        "experiment_id": "26114",
+        "participants": [
+          "Lynn",
+          "Ghimire",
+          "Poudel",
+          "Dally",
+          "Ghirmire"
+        ],
+        "expt_names": [
+          "Fe3Sn2",
+          "Spin Dynamics of Kagome Lattice"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1561390138.92,
+          1574729648.79
+        ]
+      },
+      {
+        "experiment_id": "16363",
+        "participants": [
+          "D. Reznik",
+          "D. Parshall",
+          "L.Pintschovius",
+          "F. Weber"
+        ],
+        "expt_names": [
+          "BaFeNiAs"
+        ],
+        "comments": [
+          "calibration Al2O3 [104]"
+        ],
+        "samples": [],
+        "date_range": [
+          1298579518.38,
+          1299000302.71
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "26114"
+  },
+  {
+    "legacy_score": 2.0,
+    "paper": {
+      "paper_id": "10.1107/s1600576714010140",
+      "year": "2014",
+      "title": "Spurious peaks arising from multiple scattering events involving the sample environment in inelastic neutron scattering",
+      "citation": "Spurious peaks arising from multiple scattering events involving the sample environment in inelastic neutron scattering Pintschovius, L., Reznik, D., Weber, F., Bourges, P., Parshall, D., Mittal, R., Chaplot, S.L., Heid, R., Wolf, T., Lamago, D., and Lynn, J.W. , J Appl Cryst 47 , 1472\u20131476 (2014)",
+      "doi": "10.1107/s1600576714010140",
+      "journal": "Journal of Applied Crystallography"
+    },
+    "experiments": [
+      {
+        "experiment_id": "16363",
+        "participants": [
+          "D. Reznik",
+          "D. Parshall",
+          "L.Pintschovius",
+          "F. Weber"
+        ],
+        "expt_names": [
+          "BaFeNiAs"
+        ],
+        "comments": [
+          "calibration Al2O3 [104]"
+        ],
+        "samples": [],
+        "date_range": [
+          1298579518.38,
+          1299000302.71
+        ]
+      },
+      {
+        "experiment_id": "16593",
+        "participants": [
+          "S. Disseler",
+          "Eduardo Granado",
+          "E. Granado",
+          "J. Lynn",
+          "Jeff Lynn"
+        ],
+        "expt_names": [
+          "Magnetic order and correlations in Sr2YRuO6",
+          "Sr2RuYO6"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1300301551.79,
+          1416416835.82
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "16363"
+  },
+  {
+    "legacy_score": 2.0,
+    "paper": {
+      "paper_id": "10.1103/physrevlett.110.017202",
+      "year": "2013",
+      "title": "Two-Dimensional Magnetic Correlations and Partial Long-Range Order in Geometrically Frustrated<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mi>Sr</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>YRuO</mml:mi><mml:mn>6</mml:mn></mml:msub></mml:math>",
+      "citation": "Two-Dimensional Magnetic Correlations and Partial Long-Range Order in Geometrically Frustrated Sr 2 YRuO 6 Granado, E., Lynn, J.W., Jardim, R.F., and Torikachvili, M.S. , Phys. Rev. Lett. 110 , 017202 (2013)",
+      "doi": "10.1103/physrevlett.110.017202",
+      "journal": "Physical Review Letters"
+    },
+    "experiments": [
+      {
+        "experiment_id": "16593",
+        "participants": [
+          "S. Disseler",
+          "Eduardo Granado",
+          "E. Granado",
+          "J. Lynn",
+          "Jeff Lynn"
+        ],
+        "expt_names": [
+          "Magnetic order and correlations in Sr2YRuO6",
+          "Sr2RuYO6"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1300301551.79,
+          1416416835.82
+        ]
+      },
+      {
+        "experiment_id": "20635",
+        "participants": [
+          "Guangyong Xu",
+          "Haosu Luo",
+          "Christopher Stock",
+          "Peter M. Gehring"
+        ],
+        "expt_names": [
+          "TA Phonons in Lead Oxide Relaxors"
+        ],
+        "comments": [
+          "Bragg peak at 300 K. No HOPG filters at all. Monochromator vertically focussing. Collimation is OPEN-80-80-100. Ef = 14.7 meV",
+          "CQ scan at (2,-0.35,0) at 300 K.   No HOPG filters at all.   Monochromator vertically focussing.   Sample in (HK0) zone in CCR-25.   Collimation is OPEN-80-80-100.   Ef = 22.7 meV.",
+          "CQ scan at (2,-0.35,0) at 300 K.   No HOPG filters at all.   Monochromator vertically focussing.   Sample in (HK0) zone in CCR-25.   Collimation is OPEN-80-80-100.   Ef = 19.7 meV.",
+          "calibration Al2O3 [116]"
+        ],
+        "samples": [],
+        "date_range": [
+          1432660919.49,
+          1596656662.84
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "16593"
+  },
+  {
+    "legacy_score": 2.0,
+    "paper": {
+      "paper_id": "10.1126/sciadv.aar5066",
+      "year": "2019",
+      "title": "Comment on \u201cGiant electromechanical coupling of relaxor ferroelectrics controlled by polar nanoregion vibrations\u201d",
+      "citation": "Comment on \u201cGiant electromechanical coupling of relaxor ferroelectrics controlled by polar nanoregion vibrations\u201d Gehring, P.M., Xu, Z., Stock, C., Xu, G., Parshall, D., Harriger, L., Gehring, C.A., Li, X., and Luo, H. , Sci. Adv. 5 , eaar5066 (2019)",
+      "doi": "10.1126/sciadv.aar5066",
+      "journal": "Science Advances"
+    },
+    "experiments": [
+      {
+        "experiment_id": "20635",
+        "participants": [
+          "Guangyong Xu",
+          "Haosu Luo",
+          "Christopher Stock",
+          "Peter M. Gehring"
+        ],
+        "expt_names": [
+          "TA Phonons in Lead Oxide Relaxors"
+        ],
+        "comments": [
+          "Bragg peak at 300 K. No HOPG filters at all. Monochromator vertically focussing. Collimation is OPEN-80-80-100. Ef = 14.7 meV",
+          "CQ scan at (2,-0.35,0) at 300 K.   No HOPG filters at all.   Monochromator vertically focussing.   Sample in (HK0) zone in CCR-25.   Collimation is OPEN-80-80-100.   Ef = 22.7 meV.",
+          "CQ scan at (2,-0.35,0) at 300 K.   No HOPG filters at all.   Monochromator vertically focussing.   Sample in (HK0) zone in CCR-25.   Collimation is OPEN-80-80-100.   Ef = 19.7 meV.",
+          "calibration Al2O3 [116]"
+        ],
+        "samples": [],
+        "date_range": [
+          1432660919.49,
+          1596656662.84
+        ]
+      },
+      {
+        "experiment_id": "20965",
+        "participants": [
+          "Peter Gehring",
+          "Zhijun Xu",
+          "Mike Toney",
+          "Ari Gold-Parker",
+          "Ian Smith"
+        ],
+        "expt_names": [
+          "Lattice Dynamics of CD3ND3PbI3"
+        ],
+        "comments": [
+          "Constant Q scan at 125 K on 400 mg sample of MAPID. Using (HK0) zone.",
+          "Constant Q scan at 187.5 K on 400 mg sample of MAPID. Using (HK0) zone.",
+          "Constant Q scan at 150 K on 400 mg sample of MAPID. Using (HK0) zone.",
+          "Transverse Bragg scan at 162p5 K on 400 mg sample of MAPID. Using (HK0) zone."
+        ],
+        "samples": [],
+        "date_range": [
+          1477931379.23,
+          1478527590.75
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "20635"
+  },
+  {
+    "legacy_score": 2.0,
+    "paper": {
+      "paper_id": "10.1103/physrevlett.125.075701",
+      "year": "2020",
+      "title": "Test of the Dynamic-Domain and Critical Scattering Hypotheses in Cubic Methylammonium Lead Triiodide",
+      "citation": "Test of the Dynamic-Domain and Critical Scattering Hypotheses in Cubic Methylammonium Lead Triiodide Weadock, N.J., Gehring, P.M., Gold-Parker, A., Smith, I.C., Karunadasa, H.I., and Toney, M.F. , Phys. Rev. Lett. 125 , 075701 (2020)",
+      "doi": "10.1103/physrevlett.125.075701",
+      "journal": "Physical Review Letters"
+    },
+    "experiments": [
+      {
+        "experiment_id": "20965",
+        "participants": [
+          "Peter Gehring",
+          "Zhijun Xu",
+          "Mike Toney",
+          "Ari Gold-Parker",
+          "Ian Smith"
+        ],
+        "expt_names": [
+          "Lattice Dynamics of CD3ND3PbI3"
+        ],
+        "comments": [
+          "Constant Q scan at 125 K on 400 mg sample of MAPID. Using (HK0) zone.",
+          "Constant Q scan at 187.5 K on 400 mg sample of MAPID. Using (HK0) zone.",
+          "Constant Q scan at 150 K on 400 mg sample of MAPID. Using (HK0) zone.",
+          "Transverse Bragg scan at 162p5 K on 400 mg sample of MAPID. Using (HK0) zone."
+        ],
+        "samples": [],
+        "date_range": [
+          1477931379.23,
+          1478527590.75
+        ]
+      },
+      {
+        "experiment_id": "21910",
+        "participants": [
+          "William Ratclif",
+          "Khan Alam",
+          "Art Smith",
+          "Steve Disseler",
+          "Julie Borchers"
+        ],
+        "expt_names": [
+          "Magnetism in CrN thin films"
+        ],
+        "comments": [
+          "1-point scan as part of order parameter 0.5 0.5 0.0 peak in spin flip mode",
+          "q-scan along the 0.5 0.5 1.0 peak in spin flip mode at 150 K"
+        ],
+        "samples": [],
+        "date_range": [
+          1464017410.59,
+          1464303211.4
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "20965"
+  },
+  {
+    "legacy_score": 2.0,
+    "paper": {
+      "paper_id": "10.1103/physrevb.96.104433",
+      "year": "2017",
+      "title": "Structural and magnetic phase transitions in chromium nitride thin films grown by rf nitrogen plasma molecular beam epitaxy",
+      "citation": "Structural and magnetic phase transitions in chromium nitride thin films grown by rf nitrogen plasma molecular beam epitaxy Alam, K., Disseler, S.M., Ratcliff, W.D., Borchers, J.A., Ponce-P\u00e9rez, R., Cocoletzi, G.H., Takeuchi, N., Foley, A., Richard, A., Ingram, D.C., and Smith, A.R. , Phys. Rev. B 96 , 104433 (2017)",
+      "doi": "10.1103/physrevb.96.104433",
+      "journal": "Physical Review B"
+    },
+    "experiments": [
+      {
+        "experiment_id": "21910",
+        "participants": [
+          "William Ratclif",
+          "Khan Alam",
+          "Art Smith",
+          "Steve Disseler",
+          "Julie Borchers"
+        ],
+        "expt_names": [
+          "Magnetism in CrN thin films"
+        ],
+        "comments": [
+          "1-point scan as part of order parameter 0.5 0.5 0.0 peak in spin flip mode",
+          "q-scan along the 0.5 0.5 1.0 peak in spin flip mode at 150 K"
+        ],
+        "samples": [],
+        "date_range": [
+          1464017410.59,
+          1464303211.4
+        ]
+      },
+      {
+        "experiment_id": "24618",
+        "participants": [
+          "Lynn",
+          "Ratcliff",
+          "Dally",
+          "S. Cheong",
+          "J. Lynn",
+          "W. Ratcliff"
+        ],
+        "expt_names": [
+          "GaV4S8 field dependence",
+          "GVS"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1516380588.19,
+          1576466081.49
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "21910"
+  },
+  {
+    "legacy_score": 2.0,
+    "paper": {
+      "paper_id": "10.1103/physrevb.98.224410",
+      "year": "2018",
+      "title": "Ordered magnetism in the intrinsically decorated \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>j</mml:mi><mml:mi>eff</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac><mml:mspace width=\"4pt\"/><mml:mi>\u03b1</mml:mi><mml:mtext>\u2212</mml:mtext><mml:msub><mml:mi mathvariant=\"normal\">CoV</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">O</mml:mi><mml:mn>8</mml:mn></mml:msub></mml:math>",
+      "citation": "Ordered magnetism in the intrinsically decorated j eff = 1 2 \u03b1 \u2212 CoV 3 O 8 Sarte, P.M., Ar\u00e9valo-L\u00f3pez, A.M., Songvilay, M., Le, D., Guidi, T., Garc\u00eda-Sakai, V., Mukhopadhyay, S., Capelli, S.C., Ratcliff, W.D., Hong, K.H., McNally, G.M., Pachoud, E., Attfield, J.P., and Stock, C. , Phys. Rev. B 98 , 224410 (2018)",
+      "doi": "10.1103/physrevb.98.224410",
+      "journal": "Physical Review B"
+    },
+    "experiments": [
+      {
+        "experiment_id": "24618",
+        "participants": [
+          "Lynn",
+          "Ratcliff",
+          "Dally",
+          "S. Cheong",
+          "J. Lynn",
+          "W. Ratcliff"
+        ],
+        "expt_names": [
+          "GaV4S8 field dependence",
+          "GVS"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1516380588.19,
+          1576466081.49
+        ]
+      },
+      {
+        "experiment_id": "13489",
+        "participants": [
+          "Li"
+        ],
+        "expt_names": [
+          "CaFeAs"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1223514856.57,
+          1224282555.9
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "24618"
+  },
+  {
+    "legacy_score": 1.5,
+    "paper": {
+      "paper_id": "10.1103/physrevb.85.224415",
+      "year": "2012",
+      "title": "Magnetic phase diagram of magnetoelectric LiMnPO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:msub><mml:mrow/><mml:mn>4</mml:mn></mml:msub></mml:math>",
+      "citation": "Magnetic phase diagram of magnetoelectric LiMnPO 4 Toft-Petersen, R., Andersen, N.H., Li, H., Li, J., Tian, W., Bud'ko, S.L., Jensen, T.B.S., Niedermayer, C., Laver, M., Zaharko, O., Lynn, J.W., and Vaknin, D. , Phys. Rev. B 85 , 224415 (2012)",
+      "doi": "10.1103/physrevb.85.224415",
+      "journal": "Physical Review B"
+    },
+    "experiments": [
+      {
+        "experiment_id": "13489",
+        "participants": [
+          "Li"
+        ],
+        "expt_names": [
+          "CaFeAs"
+        ],
+        "comments": [],
+        "samples": [],
+        "date_range": [
+          1223514856.57,
+          1224282555.9
+        ]
+      },
+      {
+        "experiment_id": "13764",
+        "participants": [
+          "soushi ibuka",
+          "Taku Sato",
+          "Kittiwit Matan"
+        ],
+        "expt_names": [
+          "BaFe2AS2"
+        ],
+        "comments": [
+          "Cu monochromator"
+        ],
+        "samples": [],
+        "date_range": [
+          1255277516.3,
+          1255845704.15
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "13489"
+  },
+  {
+    "legacy_score": 1.5,
+    "paper": {
+      "paper_id": "10.1103/physrevb.83.059901",
+      "year": "2011",
+      "title": "Erratum: Doping dependence of spin dynamics in electron-doped Ba(<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mi mathvariant=\"normal\">Fe</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>\u2212</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">Co</mml:mi><mml:mrow><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>)<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi mathvariant=\"normal\">As</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math>[Phys. Rev. B<b>82</b>, 054515 (2010)]",
+      "citation": "Erratum: Doping dependence of spin dynamics in electron-doped Ba( Fe 1 \u2212 x Co x ) 2 As 2 [Phys. Rev. B 82 , 054515 (2010)] Sato, T.J., Matan, K., Ibuka, S., Morinaga, R., Chi, S., Lynn, J.W., Christianson, A.D., and Lumsden, M.D. , Phys. Rev. B 83 , 059901 (2011)",
+      "doi": "10.1103/physrevb.83.059901",
+      "journal": "Physical Review B"
+    },
+    "experiments": [
+      {
+        "experiment_id": "13764",
+        "participants": [
+          "soushi ibuka",
+          "Taku Sato",
+          "Kittiwit Matan"
+        ],
+        "expt_names": [
+          "BaFe2AS2"
+        ],
+        "comments": [
+          "Cu monochromator"
+        ],
+        "samples": [],
+        "date_range": [
+          1255277516.3,
+          1255845704.15
+        ]
+      },
+      {
+        "experiment_id": "18445",
+        "participants": [
+          "Sang-Wook Cheong",
+          "William Ratcliff",
+          "Eteri Svanktze",
+          "Sang Cheong",
+          "Steve Disseler",
+          "Jeff Lynn",
+          "Emilia Morosan"
+        ],
+        "expt_names": [
+          "Investigation of Multiferroic Hexagonal Manganites",
+          "Hexagonal LuFe0.5Mn0.5O3",
+          "Magnetic Order in TiAu"
+        ],
+        "comments": [
+          "calibration Al2O3 [012]",
+          "calibration Al2O3 [104]",
+          "calibration Al2O3 [116]"
+        ],
+        "samples": [],
+        "date_range": [
+          1368813667.34,
+          1416328805.98
+        ]
+      }
+    ],
+    "expected_top_experiment_id": "13764"
+  }
+]
